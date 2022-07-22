@@ -38,6 +38,7 @@ a {
     padding: 1rem;
     background: var(--secondary-color);
     border-bottom: 0.01rem solid rgba(0, 0, 0, 0.08);
+    z-index: 100000;
 
     .header-content {
         display: flex;
